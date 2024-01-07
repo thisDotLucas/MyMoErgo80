@@ -99,7 +99,7 @@
 
         thumb: thumb_layer_access {
             compatible = "zmk,behavior-hold-tap";
-            flavor = THUMB_HOLDING_TYPE;
+            flavor = "balanced";
             tapping-term-ms = <200>;
             #binding-cells = <2>;
             bindings = <&mo>, <&kp>;
