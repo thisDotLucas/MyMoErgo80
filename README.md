@@ -1,3 +1,5 @@
+Built upon: https://sunaku.github.io/moergo-glove80-keyboard.html
+
 # MoErgo Glove80 Custom Configuration for ZMK
 
 ![MoErgo Logo](moergo_logo.png)
